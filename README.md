@@ -13,8 +13,8 @@ This guide will help you set up the **WebScraper backend** locally, connecting t
 ## 1. Clone the repository
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/Skarbot88/WebScraperBackend.git
+cd WebScraperBackend
 ```
 
 ## 2. Create environment file
